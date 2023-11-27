@@ -12,5 +12,6 @@ The Game The rules of the game are as follows:
 . You can restart the game to beat your previous score.
 
 High Score Table:
+
 In order to add a bit healthy competition to the game, a high score table system is implemented.
 When the game is over (due to choose wrong color) and then your high score table should then be shown to the user.
