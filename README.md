@@ -1,7 +1,6 @@
 # Simon-Game
 Built a Simon-Game without using any Raw HTML, CSS and JavaScript without using any external libraries.
 
-
 The Game The rules of the game are as follows:
 
 . Watch and remember a sequence of colors/sounds shown by the game.
